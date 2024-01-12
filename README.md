@@ -1,8 +1,6 @@
+# Sugarcane Production Data Science Project
 
-**<h1>Sugarcane Production Data Science Project</h1>** 
-
-<h5>This project aims to analyze and visualize the data of sugarcane production data using Python and popular data analysis libraries such as Pandas, Seaborn, and Matplotlib. The dataset used in this analysis is named "List of Countries by Sugarcane Production.csv." This analysis provides insights into sugarcane production across different countries and continents. It explores the relationship between various production-related metrics and uncovers patterns and trends within the dataset.
-</h5>
+This project aims to analyze and visualize the data of sugarcane production data using Python and popular data analysis libraries such as Pandas, Seaborn, and Matplotlib. The dataset used in this analysis is named "List of Countries by Sugarcane Production.csv." This analysis provides insights into sugarcane production across different countries and continents. It explores the relationship between various production-related metrics and uncovers patterns and trends within the dataset.
 
 ## Dataset
 
