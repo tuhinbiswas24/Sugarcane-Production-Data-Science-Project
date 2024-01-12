@@ -15,6 +15,14 @@ The dataset contains information about sugarcane production in various countries
 - `Acreage(Hectare)`: Total acreage of land used for sugarcane cultivation in hectares.
 - `Yield(Kg/Hectare)`: Yield of sugarcane in kilograms per hectare.
 
+### To run this project, you will need the following:
+
+1.Python 3.7 or higher
+
+2.Jupyter Notebook or Google Colab
+
+3.Pandas, NumPy, SciPy, Seaborn, Matplotlib, Plotly, and other libraries for data analysis and visualization
+
 **<h3>To run this project, you will need the following:</h3>**
 
 <h5>
